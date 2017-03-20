@@ -16,7 +16,7 @@ Another way, would be to use javascript to dynamically change the way the format
 
 ## Explain the limitations of the python Global Interpreter Lock , and how you could work around it.
 
-## ##  How can you reduce the user’s perception of waiting when some functions take a lot of time?
+##  How can you reduce the user’s perception of waiting when some functions take a lot of time?
 
 In order to decrease a user's perception of waiting when some functions take a lot of time you need to give them an indication that something is happening. Most commonly, animation is used in some way to indicate activity; typically you have a series of small rotating circles or something like that.
 
@@ -60,6 +60,8 @@ Babel is critical for transpiling ES6 code into regular JS. Tern/ JSlint are cru
 ##  What is your opinion of “ P versus NP”
 
 ##  Let's say you have a list of N+1 integers between 1 and N. You know there's at least one duplicate, but there might be more. For example, if N=3, your list might be 3, 1, 1, 3 or it might be 1, 3, 2, 2. Print out a number that appears in the list more than once. (That is, in the first example, you can print '1' or '3' -- you don't have to print both.)
+
+https://github.com/Lyonsclay/el_projecto_challenge/blob/master/algorithms/first_duplicate.js
 
 ##  How do you find out if a number is a power of 2? And how do you know if it is an odd number?
 
