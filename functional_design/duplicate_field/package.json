@@ -1,0 +1,26 @@
+{
+  "name": "duplicate_field",
+  "version": "1.0.0",
+  "description": "Duplicate's a specified field in a json file.",
+  "main": "duplicate_field.js",
+  "scripts": {
+    "test": "jest",
+    "format": "./node_modules/prettier/bin/prettier.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lyonsclay/el_projecto_challenge/tree/master/functional_design/duplicate_field"
+  },
+  "keywords": [
+    "json",
+    "javascript"
+  ],
+  "author": "Lyonsclay",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^19.0.2",
+    "prettier": "^0.22.0"
+  }
+}
