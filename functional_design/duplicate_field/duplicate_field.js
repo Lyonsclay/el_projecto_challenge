@@ -1,8 +1,17 @@
-var jsonFields = require('./fields.json')
+var fs = require('fs')
 
-exports.fields = jsonFields.fields
+const duplicateID = (fields) => fields.map(field => Object.assign({}, { '_id': field.id }, field))
 
-exports.duplicateID = () => jsonFields.fields.map(field => Object.assign({}, { "_id": field.id }, field))
 
-exports.simple = () => jsonFields.fields.map(field => field)
-exports.popField = function () { return jsonFields.fields.map(field => Object.assign({}, { "_id": field.id }, field)) }
+
+const writeFields = (file, fields) => fs.writeFileSync(
+  file,
+  JSON.stringify({ 'fields': duplicateID(fields) })
+)
+
+
+module.exports = {
+  duplicateID,
+  writeFields,
+}
+
