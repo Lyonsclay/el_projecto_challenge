@@ -41,6 +41,7 @@ Strictly typed languages require all inputs to be of a known type. However, this
 
 ##  In the language of your choice, write a script to handle a csv file manipulation, and remove invalid lines (bad formatting, etc) and then display and only output the 4th column. Try to make it as efficient as possible in the time allowed. Assume you could have a huge csv file.
 
+
 ##  In the following image, what color will be applied to the text?
 
 http://htmlpreview.github.io/?https://github.com/Lyonsclay/el_projecto_challenge/blob/master/algorithms/text_color.html
