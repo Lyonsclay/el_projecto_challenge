@@ -59,6 +59,8 @@ https://github.com/Lyonsclay/el_projecto_challenge/blob/master/algorithms/first_
 
 `function isPowerOfTwo(n) { return (Math.log2(n) % 1 === 0) }`
 
+`function isOdd(n) { return (n % 2 === 1) }`
+
 ##  Can you give an example of a recursive solution that you created?
 
 https://github.com/Lyonsclay/el_projecto_challenge/blob/master/algorithms/recursion.ex
