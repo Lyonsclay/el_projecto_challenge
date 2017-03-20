@@ -41,10 +41,11 @@ Strictly typed languages require all inputs to be of a known type. However, this
 
 ##  In the language of your choice, write a script to handle a csv file manipulation, and remove invalid lines (bad formatting, etc) and then display and only output the 4th column. Try to make it as efficient as possible in the time allowed. Assume you could have a huge csv file.
 
+https://github.com/Lyonsclay/file_manipulation
 
 ##  In the following image, what color will be applied to the text?
 
-http://htmlpreview.github.io/?https://github.com/Lyonsclay/el_projecto_challenge/blob/master/algorithms/text_color.html
+[red]http://htmlpreview.github.io/?https://github.com/Lyonsclay/el_projecto_challenge/blob/master/algorithms/text_color.html
 
 ##  Use any language or program you are aware of to duplicate a field from a json file programmatically.
 
@@ -63,6 +64,8 @@ Babel is critical for transpiling ES6 code into regular JS. Tern/ JSlint are cru
 # Algorithms
   
 ##  What is your opinion of “ P versus NP”
+
+It’s easy to know if you like a beer, but very difficult/impossible to brew a beer to that exact taste.
 
 ##  Let's say you have a list of N+1 integers between 1 and N. You know there's at least one duplicate, but there might be more. For example, if N=3, your list might be 3, 1, 1, 3 or it might be 1, 3, 2, 2. Print out a number that appears in the list more than once. (That is, in the first example, you can print '1' or '3' -- you don't have to print both.)
 
