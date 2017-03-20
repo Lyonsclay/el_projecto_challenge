@@ -43,7 +43,11 @@ Strictly typed languages require all inputs to be of a known type. However, this
 
 ##  In the following image, what color will be applied to the text?
 
+http://htmlpreview.github.io/?https://github.com/Lyonsclay/el_projecto_challenge/blob/master/algorithms/text_color.html
+
 ##  Use any language or program you are aware of to duplicate a field from a json file programmatically.
+
+https://github.com/Lyonsclay/el_projecto_challenge/tree/master/functional_design/duplicate_field
 
 # Construction/Debugging
 
@@ -70,6 +74,8 @@ https://github.com/Lyonsclay/el_projecto_challenge/blob/master/algorithms/first_
 ##  Do you know about the Traveling Salesman Problem? Your opinion of it?
 
 ##  Can you give an example of a recursive solution that you created?
+
+https://github.com/Lyonsclay/el_projecto_challenge/blob/master/algorithms/recursion.ex
 
 ##  You have run out of stack space. What do you do?
 
